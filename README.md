@@ -4,12 +4,15 @@
 ### Description
 This project will allow users to enter a pokémon's name and see an image of that pokémon
 
+#### THERE ARE 898 Pokémon to choose from!
+
 ### Technologies Used
 
-* Expo
-* React Native
+* <a href="https://expo.io/" target="_blank">Expo</a>
+* <a href="https://reactnative.dev/docs/getting-started" target="_blank">React Native</a>
 * git
-* VS Code
+* <a href="https://code.visualstudio.com/download" target="_blank">VS Code</a>
+* <a href="https://pokeapi.co/" target="_blank">PokeAPI</a> 
 
 ## License
 > [MIT](https://opensource.org/licenses/MIT) 
